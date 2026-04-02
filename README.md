@@ -39,9 +39,7 @@ Taichi 图形库
 ├── lab2.py       # 主程序代码
 └── README.md     # 实验说明文档
 
-七、提交说明
-本项目已上传至 GitHub，通过 Git 完成代码管理与版本提交
-
-八，成果演示
+七、成果演示
 ![三角形](https://github.com/user-attachments/assets/d21ebca2-419b-414b-b46b-079328292a69)
+本项目已上传至 GitHub，通过 Git 完成代码管理与版本提交
 
